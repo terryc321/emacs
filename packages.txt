@@ -4,3 +4,4 @@ git clone https://github.com/clojure-emacs/clojure-mode.git
 git clone https://github.com/company-mode/company-mode.git
 git clone https://github.com/tsdh/highlight-parentheses.el.git
 git clone https://github.com/clojure-emacs/cider.git
+git clone https://github.com/clojure-emacs/parseedn.git
